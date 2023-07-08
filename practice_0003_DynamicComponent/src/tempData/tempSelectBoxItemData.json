@@ -1,0 +1,242 @@
+[
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_001",
+    "categoryName2": "A항목1",
+    "categoryCode3": "c3_001",
+    "categoryName3": "A항목1_a요소1"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_001",
+    "categoryName2": "A항목1",
+    "categoryCode3": "c3_002",
+    "categoryName3": "A항목1_a요소2"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_001",
+    "categoryName2": "A항목1",
+    "categoryCode3": "c3_003",
+    "categoryName3": "A항목1_a요소3"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_002",
+    "categoryName2": "A항목2",
+    "categoryCode3": "c3_004",
+    "categoryName3": "A항목2_a요소1"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_002",
+    "categoryName2": "A항목2",
+    "categoryCode3": "c3_005",
+    "categoryName3": "A항목2_a요소2"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_003",
+    "categoryName2": "A항목3",
+    "categoryCode3": "c3_006",
+    "categoryName3": "A항목3_a요소1"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_003",
+    "categoryName2": "A항목3",
+    "categoryCode3": "c3_007",
+    "categoryName3": "A항목3_a요소2"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_003",
+    "categoryName2": "A항목3",
+    "categoryCode3": "c3_008",
+    "categoryName3": "A항목3_a요소3"
+  },
+  {
+    "categoryCode1": "c1_001",
+    "categoryName1": "A범주",
+    "categoryCode2": "c2_003",
+    "categoryName2": "A항목3",
+    "categoryCode3": "c3_009",
+    "categoryName3": "A항목3_a요소4"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_004",
+    "categoryName2": "B항목1",
+    "categoryCode3": "c3_010",
+    "categoryName3": "B항목1_b요소1"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_004",
+    "categoryName2": "B항목1",
+    "categoryCode3": "c3_011",
+    "categoryName3": "B항목1_b요소2"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_005",
+    "categoryName2": "B항목2",
+    "categoryCode3": "c3_012",
+    "categoryName3": "B항목2_b요소1"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_005",
+    "categoryName2": "B항목2",
+    "categoryCode3": "c3_013",
+    "categoryName3": "B항목2_b요소2"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_005",
+    "categoryName2": "B항목2",
+    "categoryCode3": "c3_014",
+    "categoryName3": "B항목2_b요소3"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_005",
+    "categoryName2": "B항목2",
+    "categoryCode3": "c3_015",
+    "categoryName3": "B항목2_b요소4"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_005",
+    "categoryName2": "B항목2",
+    "categoryCode3": "c3_016",
+    "categoryName3": "B항목2_b요소5"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_006",
+    "categoryName2": "B항목3",
+    "categoryCode3": "c3_017",
+    "categoryName3": "B항목3_b요소1"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_006",
+    "categoryName2": "B항목3",
+    "categoryCode3": "c3_018",
+    "categoryName3": "B항목3_b요소2"
+  },
+  {
+    "categoryCode1": "c1_002",
+    "categoryName1": "B범주",
+    "categoryCode2": "c2_006",
+    "categoryName2": "B항목3",
+    "categoryCode3": "c3_019",
+    "categoryName3": "B항목3_b요소3"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_007",
+    "categoryName2": "C항목1",
+    "categoryCode3": "c3_020",
+    "categoryName3": "C항목1_c요소1"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_007",
+    "categoryName2": "C항목1",
+    "categoryCode3": "c3_021",
+    "categoryName3": "C항목1_c요소2"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_008",
+    "categoryName2": "C항목2",
+    "categoryCode3": "c3_022",
+    "categoryName3": "C항목2_c요소1"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_009",
+    "categoryName2": "C항목3",
+    "categoryCode3": "c3_023",
+    "categoryName3": "C항목3_c요소1"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_010",
+    "categoryName2": "C항목4",
+    "categoryCode3": "c3_024",
+    "categoryName3": "C항목4_c요소1"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_010",
+    "categoryName2": "C항목4",
+    "categoryCode3": "c3_025",
+    "categoryName3": "C항목4_c요소2"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_010",
+    "categoryName2": "C항목4",
+    "categoryCode3": "c3_026",
+    "categoryName3": "C항목4_c요소3"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_010",
+    "categoryName2": "C항목4",
+    "categoryCode3": "c3_027",
+    "categoryName3": "C항목4_c요소4"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_011",
+    "categoryName2": "C항목5",
+    "categoryCode3": "c3_028",
+    "categoryName3": "C항목5_c요소1"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_011",
+    "categoryName2": "C항목5",
+    "categoryCode3": "c3_029",
+    "categoryName3": "C항목5_c요소2"
+  },
+  {
+    "categoryCode1": "c1_003",
+    "categoryName1": "C범주",
+    "categoryCode2": "c2_011",
+    "categoryName2": "C항목5",
+    "categoryCode3": "c3_030",
+    "categoryName3": "C항목5_c요소3"
+  }
+]
